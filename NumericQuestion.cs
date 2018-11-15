@@ -6,7 +6,7 @@ namespace week1opdr2
 {
     class NumericQuestion : Question
     {
-        double answer;
+        new double answer;
 
         public override void setAnswer(string correctResponse)
         {
@@ -15,9 +15,16 @@ namespace week1opdr2
         }
 
         public override bool checkAnswer(string response)
-        {
+        { 
             double cAnswer = double.Parse(response);
-            return response.Equals(answer);
+            if(cAnswer == answer)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
     }
