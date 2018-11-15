@@ -14,5 +14,11 @@ namespace week1opdr2
             answer = antwoord;
         }
 
+        public override bool checkAnswer(string response)
+        {
+            double cAnswer = double.Parse(response);
+            return response.Equals(answer);
+        }
+
     }
 }
