@@ -4,7 +4,7 @@ using System.Text;
 
 namespace week1opdr2
 {
-    class OpenVraag
+    class OpenVraag : Question
     {
     }
 }

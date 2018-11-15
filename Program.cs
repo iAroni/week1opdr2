@@ -15,7 +15,6 @@ namespace week1opdr2
             q1.display();
             Console.WriteLine("Your answer: ");
             var antwoord = Console.ReadLine();
-            
             Console.WriteLine(q1.checkAnswer(antwoord));
             Console.ReadLine();
         }
