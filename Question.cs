@@ -6,8 +6,8 @@ namespace week1opdr2
 {
     class Question
     {
-        public string text;
-        public string answer;
+        public string text { get; set; }
+        public string answer { get; set; }
 
         //set empty question
         public Question()

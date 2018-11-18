@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\megas\\source\\repos\\week1opdr2\\week1opdr2\\week1opdr2.csproj",
+      "projectUniqueName": "C:\\Users\\megas\\Documents\\GitHub\\week1opdr2\\week1opdr2.csproj",
       "projectName": "week1opdr2",
-      "projectPath": "c:\\users\\megas\\source\\repos\\week1opdr2\\week1opdr2\\week1opdr2.csproj",
+      "projectPath": "C:\\Users\\megas\\Documents\\GitHub\\week1opdr2\\week1opdr2.csproj",
       "packagesPath": "C:\\Users\\megas\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\megas\\source\\repos\\week1opdr2\\week1opdr2\\obj\\",
+      "outputPath": "C:\\Users\\megas\\Documents\\GitHub\\week1opdr2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ C:\Users\megas\source\repos\week1opdr2\week1opdr2\bin\Debug\netcoreapp2.1\week1o
 C:\Users\megas\source\repos\week1opdr2\week1opdr2\bin\Debug\netcoreapp2.1\week1opdr2.pdb
 C:\Users\megas\source\repos\week1opdr2\week1opdr2\obj\Debug\netcoreapp2.1\week1opdr2.dll
 C:\Users\megas\source\repos\week1opdr2\week1opdr2\obj\Debug\netcoreapp2.1\week1opdr2.pdb
+C:\Users\megas\Documents\GitHub\week1opdr2\obj\Debug\netcoreapp2.1\week1opdr2.csprojAssemblyReference.cache
+C:\Users\megas\Documents\GitHub\week1opdr2\obj\Debug\netcoreapp2.1\week1opdr2.csproj.CoreCompileInputs.cache
+C:\Users\megas\Documents\GitHub\week1opdr2\obj\Debug\netcoreapp2.1\week1opdr2.AssemblyInfoInputs.cache
+C:\Users\megas\Documents\GitHub\week1opdr2\obj\Debug\netcoreapp2.1\week1opdr2.AssemblyInfo.cs
+C:\Users\megas\Documents\GitHub\week1opdr2\obj\Debug\netcoreapp2.1\week1opdr2.dll
+C:\Users\megas\Documents\GitHub\week1opdr2\obj\Debug\netcoreapp2.1\week1opdr2.pdb
+C:\Users\megas\Documents\GitHub\week1opdr2\bin\Debug\netcoreapp2.1\week1opdr2.deps.json
+C:\Users\megas\Documents\GitHub\week1opdr2\bin\Debug\netcoreapp2.1\week1opdr2.runtimeconfig.json
+C:\Users\megas\Documents\GitHub\week1opdr2\bin\Debug\netcoreapp2.1\week1opdr2.runtimeconfig.dev.json
+C:\Users\megas\Documents\GitHub\week1opdr2\bin\Debug\netcoreapp2.1\week1opdr2.dll
+C:\Users\megas\Documents\GitHub\week1opdr2\bin\Debug\netcoreapp2.1\week1opdr2.pdb

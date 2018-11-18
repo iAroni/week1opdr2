@@ -8,9 +8,11 @@ namespace week1opdr2
         {
             Console.WriteLine("Hello World!");
 
-            Question q1 = new Question();
-            q1.setText("Who was the inventor of Java?");
-            q1.setAnswer("James Gosling");
+            Question q1 = new Question()
+            {
+                text = "Wie is een baas?",
+                answer = "Aron"
+            };
 
             q1.display();
             Console.WriteLine("Your answer: ");
